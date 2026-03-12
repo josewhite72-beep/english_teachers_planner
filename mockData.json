@@ -1,0 +1,236 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Introduction to Present Simple",
+      "date": "2024-03-15",
+      "level": "A1",
+      "objectives": ["Understanding present simple usage", "Practicing daily routines", "Learning time expressions"],
+      "materials": ["Worksheets", "Flashcards", "Interactive whiteboard"],
+      "notes": "Great engagement from students. Need more practice with question forms."
+    },
+    {
+      "id": 2,
+      "title": "Past Tense Narratives",
+      "date": "2024-03-16",
+      "level": "A2",
+      "objectives": ["Story telling in past tense", "Irregular verbs practice", "Time sequencers"],
+      "materials": ["Story cards", "Audio files", "Video clips"],
+      "notes": "Students struggled with irregular verbs. Plan follow-up lesson."
+    },
+    {
+      "id": 3,
+      "title": "Conversation Practice - Describing People",
+      "date": "2024-03-17",
+      "level": "B1",
+      "objectives": ["Expand vocabulary for descriptions", "Practice speaking fluency", "Active listening"],
+      "materials": ["Picture cards", "Conversation prompts"],
+      "notes": "Students enjoyed pair work activities. Very productive class."
+    },
+    {
+      "id": 4,
+      "title": "Business English - Email Writing",
+      "date": "2024-03-18",
+      "level": "B2",
+      "objectives": ["Professional email structure", "Formal vs informal tone", "Common phrases"],
+      "materials": ["Sample emails", "Writing templates"],
+      "notes": "Students requested more real-world examples."
+    },
+    {
+      "id": 5,
+      "title": "Pronunciation Workshop - TH Sounds",
+      "date": "2024-03-19",
+      "level": "A2",
+      "objectives": ["Distinguish /θ/ and /ð/ sounds", "Practice minimal pairs", "Improve clarity"],
+      "materials": ["Audio recordings", "Mirror practice"],
+      "notes": "Significant improvement noticed. Plan more pronunciation sessions."
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Maria Garcia",
+      "level": "A2",
+      "attendance": 95,
+      "progress": 78,
+      "strengths": ["Vocabulary", "Reading", "Listening"],
+      "weaknesses": ["Speaking", "Grammar"]
+    },
+    {
+      "id": 2,
+      "name": "Juan Rodriguez",
+      "level": "B1",
+      "attendance": 88,
+      "progress": 82,
+      "strengths": ["Speaking", "Listening", "Pronunciation"],
+      "weaknesses": ["Writing"]
+    },
+    {
+      "id": 3,
+      "name": "Ana Martinez",
+      "level": "A1",
+      "attendance": 92,
+      "progress": 65,
+      "strengths": ["Listening", "Vocabulary"],
+      "weaknesses": ["Speaking", "Grammar", "Confidence"]
+    },
+    {
+      "id": 4,
+      "name": "Carlos Silva",
+      "level": "B2",
+      "attendance": 97,
+      "progress": 89,
+      "strengths": ["Grammar", "Writing", "Reading"],
+      "weaknesses": ["Pronunciation"]
+    },
+    {
+      "id": 5,
+      "name": "Sofia Chen",
+      "level": "C1",
+      "attendance": 100,
+      "progress": 94,
+      "strengths": ["All skills", "Critical thinking", "Fluency"],
+      "weaknesses": ["Idioms"]
+    },
+    {
+      "id": 6,
+      "name": "Miguel Santos",
+      "level": "A2",
+      "attendance": 85,
+      "progress": 70,
+      "strengths": ["Speaking", "Enthusiasm"],
+      "weaknesses": ["Grammar", "Writing"]
+    },
+    {
+      "id": 7,
+      "name": "Laura Fernandez",
+      "level": "B1",
+      "attendance": 90,
+      "progress": 76,
+      "strengths": ["Reading", "Vocabulary"],
+      "weaknesses": ["Speaking confidence"]
+    },
+    {
+      "id": 8,
+      "name": "David Kim",
+      "level": "A1",
+      "attendance": 94,
+      "progress": 68,
+      "strengths": ["Listening", "Memory"],
+      "weaknesses": ["Speaking", "Pronunciation"]
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "title": "Grammar Worksheets Pack",
+      "type": "PDF",
+      "category": "Grammar",
+      "level": "A1-A2",
+      "url": "#",
+      "description": "Comprehensive grammar exercises for beginners covering present simple, past simple, and basic structures."
+    },
+    {
+      "id": 2,
+      "title": "Conversation Starters",
+      "type": "Activity",
+      "category": "Speaking",
+      "level": "B1-B2",
+      "url": "#",
+      "description": "50+ engaging topics for pair and group discussions to improve fluency and confidence."
+    },
+    {
+      "id": 3,
+      "title": "Vocabulary Flashcards - Daily Life",
+      "type": "Flashcards",
+      "category": "Vocabulary",
+      "level": "A1",
+      "url": "#",
+      "description": "Essential vocabulary for everyday situations: shopping, travel, food, family, and more."
+    },
+    {
+      "id": 4,
+      "title": "Listening Comprehension Exercises",
+      "type": "Audio",
+      "category": "Listening",
+      "level": "B1",
+      "url": "#",
+      "description": "Authentic listening materials with comprehension questions and transcripts."
+    },
+    {
+      "id": 5,
+      "title": "Business English Course",
+      "type": "PDF",
+      "category": "Business",
+      "level": "B2-C1",
+      "url": "#",
+      "description": "Complete guide to professional English: emails, presentations, meetings, and negotiations."
+    },
+    {
+      "id": 6,
+      "title": "Pronunciation Guide",
+      "type": "Audio",
+      "category": "Pronunciation",
+      "level": "A2-B1",
+      "url": "#",
+      "description": "Detailed guide to English sounds with practice exercises and native speaker examples."
+    },
+    {
+      "id": 7,
+      "title": "Reading Comprehension Pack",
+      "type": "PDF",
+      "category": "Reading",
+      "level": "B1-B2",
+      "url": "#",
+      "description": "Graded reading texts with comprehension questions and vocabulary exercises."
+    },
+    {
+      "id": 8,
+      "title": "Writing Skills Workshop",
+      "type": "Activity",
+      "category": "Writing",
+      "level": "B2-C1",
+      "url": "#",
+      "description": "Step-by-step guide to academic and professional writing with templates and examples."
+    },
+    {
+      "id": 9,
+      "title": "Interactive Grammar Games",
+      "type": "Activity",
+      "category": "Grammar",
+      "level": "A1-B1",
+      "url": "#",
+      "description": "Fun, engaging games to practice grammar points in an interactive way."
+    },
+    {
+      "id": 10,
+      "title": "IELTS Preparation Materials",
+      "type": "PDF",
+      "category": "Exam Prep",
+      "level": "B2-C1",
+      "url": "#",
+      "description": "Complete IELTS preparation pack with practice tests and strategies for all sections."
+    }
+  ],
+  "analytics": {
+    "totalStudents": 24,
+    "averageProgress": 75,
+    "completedLessons": 48,
+    "upcomingLessons": 12,
+    "attendanceRate": 89,
+    "weeklyStats": [
+      { "week": "Week 1", "lessonsCompleted": 8, "avgAttendance": 87 },
+      { "week": "Week 2", "lessonsCompleted": 10, "avgAttendance": 91 },
+      { "week": "Week 3", "lessonsCompleted": 12, "avgAttendance": 89 },
+      { "week": "Week 4", "lessonsCompleted": 11, "avgAttendance": 88 }
+    ],
+    "levelDistribution": {
+      "A1": 8,
+      "A2": 10,
+      "B1": 4,
+      "B2": 2,
+      "C1": 0,
+      "C2": 0
+    }
+  }
+}
